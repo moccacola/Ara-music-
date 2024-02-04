@@ -1,7 +1,7 @@
 const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const db = require("../mongoDB");
 module.exports = {
-  name: "Time",
+  name: "time",
   description: "nunjukin lagi di menit berapa dari musik yang lagi diputar.",
   permissions: "0x0000000000000800",
   options: [],
