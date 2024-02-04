@@ -1,19 +1,19 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["454520127623397376", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'Lawe Rejas GG',
   commandsDir: './commands',
   language: "en",
-  embedColor: "00fbff",
+  embedColor: "ff69b4",
   errorLog: "",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.youtube.com/@lawrej",
   },
 
   voteManager: {
@@ -28,7 +28,7 @@ module.exports = {
   },
 
   playlistSettings: {
-    maxPlaylist: 10,
+    maxPlaylist: 27,
     maxMusic: 75,
   },
 
@@ -47,7 +47,7 @@ module.exports = {
 
     },
 
-    maxVol: 150,
+    maxVol: 127,
 
   }
 }
